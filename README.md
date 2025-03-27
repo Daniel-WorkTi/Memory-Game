@@ -3,7 +3,7 @@
 🎮 Um simples e divertido jogo da memória com cartas de animais, feito em HTML, CSS e JavaScript.
 
 ![Preview](https://img.shields.io/badge/Status-Completo-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 ## 🎯 Como Jogar
 1. Clique em duas cartas para virá-las
