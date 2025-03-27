@@ -3,8 +3,6 @@
 Um simples e divertido jogo da memória com cartas de animais, feito em HTML, CSS e JavaScript.
 
 <div align="center">
-GitHub Stars
-GitHub License
 
 </div>
 🎯 Como Jogar
