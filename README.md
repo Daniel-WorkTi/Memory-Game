@@ -26,6 +26,6 @@ JavaScript
 🚀 Como Rodar Localmente
 bash
 Copy
-git clone https://github.com/seu-usuario/jogo-memoria-animais.git  
-cd jogo-memoria-animais  
+git clone https://github.com/seu-usuario/Memory-Games.git  
+cd Memory-Game  
 abra o arquivo index.html no navegador!  
