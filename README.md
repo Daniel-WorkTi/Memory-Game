@@ -12,8 +12,6 @@ Encontre os pares iguais.
 
 Complete o jogo no menor tempo possível!
 
-🔗 Jogue Aqui! (link para demo online)
-
 🛠️ Tecnologias
 HTML5
 
